@@ -125,6 +125,7 @@ return (
 
 <button type="submit">Save</button>
 </form>
+---
 ) : (
 <div className="profile-details">
 <h1>Hi, {userDetails.name}</h1>
